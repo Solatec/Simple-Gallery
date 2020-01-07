@@ -137,7 +137,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Una galeria per veure imatges i vídeos sense publicitat.</string>
+    <string name="app_short_description">Navegueu pels vostres records sense interrupcions amb aquesta galeria</string>
     <string name="app_long_description">
         Una eina senzilla que es pot fer servir per veure imatges i vídeos. Els elements es poden ordenar per data, mida o nom, tant ascendent com descendent. Es pot fer zoom a les imatges. Els arxius de mitjans es mostren en múltiples columnes depenent de la mida de la pantalla i es pot canviar el número de columnes mitjançant gestos. Permet canviar el nom, compartir, esborrar, i moure. Les imatges també es poden retalla, rotar o utilitzar com a fons de pantalla directament des de l\'aplicació.
 
